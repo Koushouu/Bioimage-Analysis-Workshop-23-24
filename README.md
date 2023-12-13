@@ -31,13 +31,12 @@ Please prepare the following before the workshop:
     ```powershell
     conda install numpy matplotlib scipy scikit-image ipywidgets jupyter jupyterlab 
     ```
-
-	then install [Napari](https://napari.org/stable/)with
-```powershell
-	python -m pip install "napari[all]"
-```
+    then install [Napari](https://napari.org/stable/)with
+    ```powershell
+    python -m pip install "napari[all]"
+    ```
 4. Launch the Jupyter Lab by
-```powershell
+    ```powershell
 	jupyter lab
-```
-6. Navigate to the downloaded files
+    ```
+5. Navigate to the downloaded files
