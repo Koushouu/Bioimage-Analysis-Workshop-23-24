@@ -36,9 +36,8 @@ Please prepare the following before the workshop:
 ```powershell
 	python -m pip install "napari[all]"
 ```
-4. In anaconda navigator, change the environment to the newly created environment
-
-    ![anaconda_change_env](README_images/anaconda_change_env.png)
-
-5. Install Jupyter Lab (Or Jupyter notebook) in this environment
-6. Launch the Jupyter Lab (Or Jupyter notebook) and navigate to the downloaded files
+4. Launch the Jupyter Lab by
+```powershell
+	jupyter lab
+```
+6. Navigate to the downloaded files
