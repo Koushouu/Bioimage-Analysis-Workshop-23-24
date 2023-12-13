@@ -31,7 +31,7 @@ Please prepare the following before the workshop:
     ```powershell
     conda install numpy matplotlib scipy scikit-image ipywidgets jupyter jupyterlab 
     ```
-    then install [Napari](https://napari.org/stable/)with
+    then install [Napari](https://napari.org/stable/) with
     ```powershell
     python -m pip install "napari[all]"
     ```
