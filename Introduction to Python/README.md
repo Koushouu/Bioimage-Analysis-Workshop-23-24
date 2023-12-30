@@ -1,7 +1,15 @@
 # Python Introduction Notebook 
 
-For Pre-workshop of Bioimage Analysis Workshop 2024
+### For Pre-workshop of Bioimage Analysis Workshop 2024
 
-Created by Kou
+Created by Kou; Some parts are translated into English by Yu-Jung Su
 
-Some parts are translated into English by Yu-Jung Su
+If you encounter problems in setting up python environment locally, you can open the notebooks in colabs
+
+### Colab links
+
+Practice.ipynb
+
+<a target="_blank" href="https://colab.research.google.com/github/Koushouu/Bioimage-Analysis-Workshop-23-24/blob/main/Introduction%20to%20Python/Practice.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
