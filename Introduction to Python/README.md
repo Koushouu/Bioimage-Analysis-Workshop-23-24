@@ -8,6 +8,12 @@ If you encounter problems in setting up python environment locally, you can open
 
 ### Colab links
 
+Colab_Blank.ipynb (For the workshop)
+
+<a target="_blank" href="https://colab.research.google.com/github/Koushouu/Bioimage-Analysis-Workshop-23-24/blob/main/Introduction%20to%20Python/Colab_Blank.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 Practice.ipynb
 
 <a target="_blank" href="https://colab.research.google.com/github/Koushouu/Bioimage-Analysis-Workshop-23-24/blob/main/Introduction%20to%20Python/Practice.ipynb">
