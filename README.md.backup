@@ -39,9 +39,6 @@ Please prepare the following before the workshop:
     ```powershell
     conda install scikit-learn seaborn umap-learn 
     ```
-    ```powershell
-    conda install -c conda-forge hdbscan
-    ```
 
 4. Launch the Jupyter Lab by
     ```powershell
