@@ -58,7 +58,7 @@ This event was ran four times from Dec 2023 to Jan 2024, they were at:
 - Institute of Plant and Micro Biology (IPMB), Academia Sinica, Taiwan (9-10 Jan)
 - College of Medicine, National Taiwan University (NTUCM), Taiwan (4 & 12 Jan)
 
-The biggest different to the event hosted in the last year is that here every event spanned across two days, with day 1 focused on basic Python programming and day 2 on the image analysis. Further more, as oppose to the last time where I just distribute code to everyone then they study the code by themselves, this year I am doing code-along, where I code in the front and explain, and people can follow; then there would be a few code blocks where I ask people to challenge coding for 15 mins ish. 
+The biggest different to the event hosted in the [last year](https://github.com/Koushouu/Bioimage-Analysis-Workshop-Taipei) is that here every event spanned across two days, with day 1 focused on basic Python programming and day 2 on the image analysis. Further more, as oppose to the last time where I just distribute code to everyone then they study the code by themselves, this year I am doing code-along, where I code in the front and explain, and people can follow; then there would be a few code blocks where I ask people to challenge coding for 15 mins ish. 
 
 Also, in the IPMB workshop specifically, all demo images were from the participants; I also included a quick module on dimensional reduction and clustering in BiA in that workshop (The code is available in codelab_ipmb folder).
 
