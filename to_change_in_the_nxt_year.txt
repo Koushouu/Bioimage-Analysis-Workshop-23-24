@@ -1,3 +1,4 @@
 1. use miniconda instead of anaconda
 2. use vs code instead of jupyter lab
 3. more ML/DL content (consider extending the workshop to two full days)
+4. For problem of "having no one to discuss" my solution: I have met 150+ people who do image analysis. Talk to me with your problems, and I will help to connect you to someone who do similar works
